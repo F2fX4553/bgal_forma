@@ -1,4 +1,5 @@
 # bgal_forma
+# hada i5tisar llcod li ktbto mlwale l background
 def bgall(pos,bg):
     pos.update()
     clt = pos.winfo_children()
